@@ -1,6 +1,6 @@
 # Vistara-Hackathon Hack
 
-## Udaan- In- Flight Service Management Android Application
+## Udaan- In-Flight Service Management Android Application
 
 ## By The Dreamers
 
