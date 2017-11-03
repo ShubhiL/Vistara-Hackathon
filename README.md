@@ -1,5 +1,7 @@
-# Vistara-Hackathon
+# Vistara-Hackathon Hack
 
-## TEAM NAME: The Dreamers
+## Udaan- In- Flight Service Management Android Application
+
+## By The Dreamers
 
 ### Please find the powerpoint presentation in the root folder
