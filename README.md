@@ -1,5 +1,5 @@
 # Vistara-Hackathon
 
-## Please find the powerpoint presentation in the root folder
+## TEAM NAME: The Dreamers
 
-### The dreamers
+### Please find the powerpoint presentation in the root folder
